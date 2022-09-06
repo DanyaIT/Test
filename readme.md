@@ -26,3 +26,5 @@ Homwork
 2.branch_4
 3.branch_5
 4.branch_6
+
+Изменяю информацию в репозитории GitHab
